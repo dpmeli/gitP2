@@ -1,5 +1,7 @@
 Hola soy A
 
-Paso 5 parte 2
+Paso 6 modificar archivos diferentes
+
+Paso 7 modificar el mismo archivo
 
 Hola, yo soy B dejando mensaje en archivo holaA
